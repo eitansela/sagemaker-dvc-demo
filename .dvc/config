@@ -1,6 +1,2 @@
-[cache]
-    s3 = s3cache
 ['remote "storage"']
     url = s3://sagemaker-us-east-1-062083580489/
-['remote "s3cache"']
-    url = s3://sagemaker-us-east-1-062083580489/cache/
