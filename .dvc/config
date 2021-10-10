@@ -1,4 +1,2 @@
-[core]
-    remote = storage
 ['remote "storage"']
     url = s3://sagemaker-us-east-1-062083580489/
