@@ -1,0 +1,5 @@
+outs:
+- etag: dc5311de67661b7f616c39aa97da6e13.dir
+  size: 808728
+  nfiles: 1
+  path: s3://sagemaker-us-east-1-062083580489/dvc-sagemaker/train

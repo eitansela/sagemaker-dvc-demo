@@ -1,0 +1,5 @@
+outs:
+- etag: ffb5eb670653d0f321cff34468840062.dir
+  size: 269586
+  nfiles: 1
+  path: s3://sagemaker-us-east-1-062083580489/dvc-sagemaker/validation

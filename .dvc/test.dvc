@@ -1,0 +1,5 @@
+outs:
+- etag: b40c53bf64500bd83be2478b4009e8ac.dir
+  size: 269540
+  nfiles: 1
+  path: s3://sagemaker-us-east-1-062083580489/dvc-sagemaker/test
